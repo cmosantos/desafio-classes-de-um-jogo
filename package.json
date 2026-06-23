@@ -1,0 +1,18 @@
+{
+  "name": "desafio-classes-de-um-jogo",
+  "version": "1.0.0",
+  "description": "Projeto em JavaScript para o desafio da DIO sobre classes, objetos e tipos de ataque.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "dio",
+    "classes",
+    "objetos",
+    "logica-de-programacao"
+  ],
+  "author": "Claudio Santos",
+  "license": "MIT"
+}
